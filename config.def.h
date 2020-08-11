@@ -8,8 +8,7 @@
 static char *font = "mono:pixelsize=15:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "Hack Nerd Font:pixelsize=15:antialias=true:autohint=true", // Powerline
-    "Joy Pixels:pixelsize=15:antialias=true:autohint=true" // Unicode
+    "Hack Nerd Font:pixelsize=15:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
